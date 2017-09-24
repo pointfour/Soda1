@@ -1,4 +1,5 @@
 function politic() {
+	    rep("0","o");
             rep("1", "1");
             rep("2", "e");
             rep("3", "2");
