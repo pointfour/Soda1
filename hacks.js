@@ -1,9 +1,9 @@
 function politic() {
 	    rep("0","o");
-            rep("1", "1");
-            rep("2", "e");
-            rep("3", "2");
-            rep("4", "4");
+            rep("1", "l");
+            rep("2", "r");
+            rep("3", "e");
+            rep("4", "a");
             rep("5", "s");
             rep("7", "t");
             rep("8", "b");
